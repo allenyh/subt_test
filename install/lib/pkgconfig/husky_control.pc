@@ -1,0 +1,8 @@
+prefix=/home/developer/clearpath_ws/install
+
+Name: husky_control
+Description: Description of husky_control
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/developer/clearpath_ws/install/lib 
+Requires: 

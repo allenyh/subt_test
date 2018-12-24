@@ -1,0 +1,10 @@
+(cl:defpackage subt_msgs-srv
+  (:use )
+  (:export
+   "POSEFROMARTIFACT"
+   "<POSEFROMARTIFACT-REQUEST>"
+   "POSEFROMARTIFACT-REQUEST"
+   "<POSEFROMARTIFACT-RESPONSE>"
+   "POSEFROMARTIFACT-RESPONSE"
+  ))
+

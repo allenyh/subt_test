@@ -1,0 +1,8 @@
+prefix=/home/developer/subt_ws/install
+
+Name: x2_msgs
+Description: Description of x2_msgs
+Version: 0.0.1
+Cflags: -I/home/developer/subt_ws/install/include
+Libs: -L/home/developer/subt_ws/install/lib 
+Requires: std_msgs message_runtime

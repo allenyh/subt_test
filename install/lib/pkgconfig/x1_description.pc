@@ -1,0 +1,8 @@
+prefix=/home/developer/subt_ws/install
+
+Name: x1_description
+Description: Description of x1_description
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/developer/subt_ws/install/lib 
+Requires: 

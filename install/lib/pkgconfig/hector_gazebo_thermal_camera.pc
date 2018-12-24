@@ -1,0 +1,8 @@
+prefix=/home/developer/clearpath_ws/install
+
+Name: hector_gazebo_thermal_camera
+Description: Description of hector_gazebo_thermal_camera
+Version: 0.5.0
+Cflags: -I/home/developer/clearpath_ws/install/include
+Libs: -L/home/developer/clearpath_ws/install/lib 
+Requires: gazebo_plugins

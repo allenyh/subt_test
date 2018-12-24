@@ -1,0 +1,8 @@
+prefix=/home/developer/subt_ws/install
+
+Name: subt_example
+Description: Description of subt_example
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/developer/subt_ws/install/lib 
+Requires: message_runtime

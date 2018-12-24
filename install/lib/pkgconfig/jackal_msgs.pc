@@ -1,0 +1,8 @@
+prefix=/home/developer/clearpath_ws/install
+
+Name: jackal_msgs
+Description: Description of jackal_msgs
+Version: 0.5.4
+Cflags: -I/home/developer/clearpath_ws/install/include
+Libs: -L/home/developer/clearpath_ws/install/lib 
+Requires: std_msgs message_runtime

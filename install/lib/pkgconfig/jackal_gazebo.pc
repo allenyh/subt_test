@@ -1,0 +1,8 @@
+prefix=/home/developer/clearpath_ws/install
+
+Name: jackal_gazebo
+Description: Description of jackal_gazebo
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/developer/clearpath_ws/install/lib 
+Requires: 

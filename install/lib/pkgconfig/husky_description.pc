@@ -1,0 +1,8 @@
+prefix=/home/developer/clearpath_ws/install
+
+Name: husky_description
+Description: Description of husky_description
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/developer/clearpath_ws/install/lib 
+Requires: 

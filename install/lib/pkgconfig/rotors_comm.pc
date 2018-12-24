@@ -1,0 +1,8 @@
+prefix=/home/developer/drone_ws/install
+
+Name: rotors_comm
+Description: Description of rotors_comm
+Version: 2.1.1
+Cflags: -I/home/developer/drone_ws/install/include
+Libs: -L/home/developer/drone_ws/install/lib 
+Requires: message_runtime

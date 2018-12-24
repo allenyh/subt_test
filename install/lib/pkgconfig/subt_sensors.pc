@@ -1,0 +1,8 @@
+prefix=/home/developer/subt_ws/install
+
+Name: subt_sensors
+Description: Description of subt_sensors
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/developer/subt_ws/install/lib 
+Requires: 

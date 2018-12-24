@@ -1,0 +1,8 @@
+prefix=/home/developer/subt_ws/install
+
+Name: subt_gazebo
+Description: Description of subt_gazebo
+Version: 0.1.0
+Cflags: -I/home/developer/subt_ws/install/include
+Libs: -L/home/developer/subt_ws/install/lib -lCommsClient
+Requires: message_runtime std_srvs

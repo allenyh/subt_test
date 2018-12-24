@@ -1,0 +1,8 @@
+prefix=/home/developer/clearpath_ws/install
+
+Name: default_cfg_fkie
+Description: Description of default_cfg_fkie
+Version: 0.7.8
+Cflags: 
+Libs: -L/home/developer/clearpath_ws/install/lib 
+Requires: multimaster_msgs_fkie roslaunch roslib rospy

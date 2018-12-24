@@ -1,0 +1,8 @@
+prefix=/home/developer/clearpath_ws/install
+
+Name: node_manager_fkie
+Description: Description of node_manager_fkie
+Version: 0.7.8
+Cflags: 
+Libs: -L/home/developer/clearpath_ws/install/lib 
+Requires: diagnostic_msgs master_discovery_fkie multimaster_msgs_fkie
